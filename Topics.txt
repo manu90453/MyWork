@@ -12,6 +12,14 @@ Core Java:
   Volatile, Atomic Operation, Happens Before
   Comparable Vs Comparator
   Enum
+  Serization:
+      What
+      How to achive
+      static & tansient
+      How to achive serialization of static and transient
+      Has-a
+      Is-a
+      serialVersionId
 
 JMS:
   Why JMS
