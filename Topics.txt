@@ -1,45 +1,172 @@
 Core Java:
+  JDK Vs JRE Vs JVM
+  Path Vs ClassPath
   OOPs Concept
-  JVM, SIB
-  String
-  Object Class (eqals(), hashCode(), toString(), wait(), notify(), notifyAll())
-  Cloaning (Deep Vs Shallow Copy)
-  Garbase Collector
+  static, SIB, IIB
+  this Vs super
+  final
+  Enum
+  JVM Atchitecture
+  Pass by Value Vs pass by reference
   Java is pass by reference or pass by value
   Difference between java -server and java -client
-  HashMap Vs HashSet
-  Different Type Of Map
-  Volatile, Atomic Operation, Happens Before
-  Comparable Vs Comparator
-  Enum
+  
+  How to use 2D array
+  
+  Collections:
+    Why collection
+	Array Vs Collection
+	Collection Vs Legacy class
+	Collection hierarchy
+	List:
+	Array Vs ArrayList
+	  Comparable Vs Comparator with real time example
+   	  Enumeration Vs Iterator Vs ListIterator
+	  ArrayList Vs Vector
+	  ArrayList Vs LinkedList
+	  
+	  How ArrayList grow when creted using below constructor
+	     ArrayList(initialCapacity) 	 
+	  List with unique element
+	  Implement our own ArrayList
+	
+	Set
+	  How hasSet identify Duplicate
+	  HasSet internal implementation
+	  HasSet Vs LinkedHasSet
+	  When we use LinkedHasSet
+	  List Vs Set
+	 
+	Queue:
+	  When use it.
+	  priority Queue
+	  
+	Map:
+	  Is Map is part of Collection	
+	  Internal implementation of HashMap
+	  Hashinngg
+	  HashMap Vs HasTable
+	  HashMap Vs TreeMap
+      HashMap Vs HashSet
+      Different Type Of Map
+  
+  Object:
+    What is Object Class
+	Object Class Method
+	Why use toString()
+	Why need to implement both hashCode() and equals()
+	How to create clone object
+	Deep copy vs Shallow copy
+	Create object without using clone()
+	What is meant by Marker interface
+	How to create marker interfface
+	
+  Garbage Collection
+     Why garbase collection
+	 How it's work with diagram
+	 Type of Garbage Collector and when use them
+	 How to access garbage collector
+     What type object eligible for garbage collection
+	
+  String:
+    Object backed by char array
+	immutable and final
+	String pool and intern
+	What is mean my immutable 
+	How to create immutable class
+	Why immutable
+	  Use with string pool cache
+	  thread safe
+	  Cache hashCode
+	Why created String pool
+	Memory created String pool
+	String API
+	String Vs StringBuffer Vs StringBuilder
+	+ operator Vs StringBuilder.append() vs Concat
+	What is memory leak while using subString() in Java 6 and how to solve in java 7
+	IS String in thread safe in Java
+	String for switch statement
+	Convert String to Int and int to String
+	Split String using white space char
+	Why char Array is better that String for storing password
+	can we compare String using == operator. If not what is risk.
+	
+  Thread:
+    Process Vs Thread
+	Multithrad benifits
+	Way to create thread
+	Thread properties
+	Using inner class to create thread
+	join()
+	interrupt()
+	Syncronize method level Vs Block level
+	Volatile, happens before
+	Lock, Type of lock
+	wait(), notify(), notifyAll()
+	DealLock
+	InterCommuncation betwen thread
+	Thread Life cycle
+	Thrad Pool
+	ExcutorService
+	
+      
   Serization:
-      What
-      How to achive
-      static & tansient
-      How to achive serialization of static and transient
-      Has-a
-      Is-a
-      serialVersionId
+    What
+    How to achive
+    static & tansient
+    How to achive serialization of static and transient
+    Has-a
+    Is-a
+    serialVersionId
+	
+   
+   Exception:
+     Error Vs Excption
+     Runtime error Vs Exception
+     Exception Hierarchy
+     throws vs throw
+     chcked vs unchecked exception
+     crete own exception
+     try-catch scenario
+     finally block
+     Excption rule
+     Exception Vs Assertion
+     Vararg type	 
+	  
+  Java-8
+    Lambda Expression
+    forEach
+    How to sort Map
+    Convert List to Map
+    Convert Map to List
+    How to join Array
+    How to convert String to char Array
+    How to convert primitive Array to List
+	
+How to implement below DS in Java
+   stack
+   LinkedList
+   CirculerLinkedList
+   DoublyLinkedList
+   Queue
+   priority Queue
+   tree
+   BST
 
-JMS:
-  Why JMS
-  Queue Vs Topic
-  Jboss Queue Vs IBM MQ
-  Step To create Consumer and Producer
-  Blocking Queue
-  Message, Message Type
-  
-
-Hibernate:
-   Why Hibernate
-   Lazy Loading
-   get() Vs load()  
-   merge() Vs save() Vs persist()   
-   Cache
-   Mapping (has-a)
-   Inherirtence
-    
-  
+DataStructure:
+   Serach:
+     Linear Search
+     Binary Search	 
+   
+   Sorting
+     selection sort
+	 insertion sort
+	 bubble sort
+	 insertion sort
+	 merge sort
+	 quick sort
+	 
+	
 Design Pattern:
    What and why Design Pattern
    Singleton DP
@@ -50,9 +177,31 @@ Design Pattern:
    Why don't use satic way to create Singleton
    Factory DP
    Abstract Factory DP
+   Decorator Design Pattern
+   What is mean by decorator
+   Template Design Pattern
    
-
    
+JMS:
+  Why JMS
+  Queue Vs Topic
+  Jboss Queue Vs IBM MQ
+  Step To create Consumer and Producer
+  Blocking Queue
+  What type of messaging provided by jms
+  Message, Message Type
+  
+  
+Hibernate:
+   Why Hibernate
+   Lazy Loading
+   get() Vs load()  
+   merge() Vs save() Vs persist()   
+   Cache
+   Mapping (has-a)
+   Inherirtence
+    
+	
 Git Hub:
   Checkout Code: git clone url
   Check the changes: git status
