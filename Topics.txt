@@ -202,6 +202,16 @@ Hibernate:
    Inherirtence
     
 	
+Web Services:
+   SOAP WS:
+     What is SOAP WS.
+	 WSDL
+	 XML Parsing
+
+   REST WS:
+     JSON
+	 Jersey Vs Spring Vs RestEasy impmentation of REST
+        
 Git Hub:
   Checkout Code: git clone url
   Check the changes: git status
