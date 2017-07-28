@@ -31,7 +31,10 @@ public class ContractTest extends Object {
 	}
 }
 
+
 class A extends ContractTest {
 	
 }
 
+=======
+>>>>>>> dea76909bd8a9585bda78a8778ea7be8ce4440e8
