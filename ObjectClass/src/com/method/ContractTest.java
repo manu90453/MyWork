@@ -10,7 +10,6 @@ public class ContractTest extends Object {
 		Employee e4 = new Employee(102, 170721995);
 		//System.out.println(e4.hashCode());
 		System.out.println(cache.get(e4));
-		System.out.println(get());
 	}
 	
 	
@@ -31,3 +30,8 @@ public class ContractTest extends Object {
 		System.out.println(i);
 	}
 }
+
+class A extends ContractTest {
+	
+}
+
