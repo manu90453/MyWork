@@ -1,7 +1,6 @@
 Core Java:
   JDK Vs JRE Vs JVM
   Path Vs ClassPath
-  OOPs Concept
   static, SIB, IIB
   this Vs super
   final
@@ -10,8 +9,24 @@ Core Java:
   Pass by Value Vs pass by reference
   Java is pass by reference or pass by value
   Difference between java -server and java -client
-  
   How to use 2D array
+  
+  Annotation:
+    What is Annotation.
+	What compiler does when see annotaion
+	
+  OOPs Concept:
+    Class and Object
+	Inherirtence
+	  Genralization
+	  Specialization
+	Abstraction
+	Encapsulation
+	Polymorphism
+	  static Polymorphism
+	  dynamic Polymorphism
+  
+  
   
   Collections:
     Why collection
@@ -118,6 +133,7 @@ Core Java:
     Has-a
     Is-a
     serialVersionId
+	
 	
    
    Exception:
