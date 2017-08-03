@@ -25,7 +25,7 @@ public class SortByComparable {
 		System.out.println(list);
 		
 		Collections.sort(list, new SalaryComparator());
-		
+		 
 		System.out.println(list);
 	}
 
