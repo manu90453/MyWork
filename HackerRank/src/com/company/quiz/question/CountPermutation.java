@@ -23,6 +23,7 @@ public class CountPermutation {
 		for(int i=0; i<testCase; i++) {
 			countPerm(firstNumber[i], secondNuber[i]);
 		}
+		sc.close();
 	}
 	
 	static int countPerm(int first, int second) {
@@ -37,8 +38,5 @@ public class CountPermutation {
 			
 		}
 		return 1;
-	}
-	
-	static int count()
-
-}
+    }
+}	

@@ -86,6 +86,7 @@ Core Java:
   String:
     Object backed by char array
 	immutable and final
+	How to create immutable class
 	String pool and intern
 	What is mean my immutable 
 	How to create immutable class
@@ -158,6 +159,8 @@ Core Java:
     How to join Array
     How to convert String to char Array
     How to convert primitive Array to List
+	
+	Difference between Java 7 and Java 8
 	
 How to implement below DS in Java
    stack

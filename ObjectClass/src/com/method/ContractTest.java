@@ -12,7 +12,6 @@ public class ContractTest extends Object {
 		System.out.println(cache.get(e4));
 	}
 	
-	
 	static Map<Employee, String> loadEmpDetails() {
 		Employee e1 = new Employee(101, 20041990);
 		Employee e2 = new Employee(102, 170721995);
@@ -31,10 +30,3 @@ public class ContractTest extends Object {
 	}
 }
 
-
-class A extends ContractTest {
-	
-}
-
-=======
->>>>>>> dea76909bd8a9585bda78a8778ea7be8ce4440e8
