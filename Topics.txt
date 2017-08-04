@@ -23,6 +23,8 @@ Core Java:
 	Abstraction
 	Encapsulation
 	Polymorphism
+	Collection Vs Legacy class
+	Collection hierarchy
 	  static Polymorphism
 	  dynamic Polymorphism
   
@@ -31,8 +33,6 @@ Core Java:
   Collections:
     Why collection
 	Array Vs Collection
-	Collection Vs Legacy class
-	Collection hierarchy
 	List:
 	Array Vs ArrayList
 	  Comparable Vs Comparator with real time example
@@ -216,10 +216,14 @@ Hibernate:
    Lazy Loading
    get() Vs load()  
    merge() Vs save() Vs persist()   
+   session vs session factory
    Cache
    Mapping (has-a)
    Inherirtence
-    
+
+Servlet & Jsp:
+   Why Servlet
+      
 	
 Web Services:
    SOAP WS:
@@ -237,3 +241,36 @@ Git Hub:
   Add the changs: git add filename/foldername
   Commit the changes: git commit -m "any message" (locked up repositry but not sync to github.com still code in my machine)
   To sync the changes: git push
+  
+  
+Core Java:
+   InterThread communication
+   Dead Lock
+   Procedure vs consumer
+   wait(), notify(), notifyAll()
+   join()
+   Reflection
+   Annotation
+   lambda
+   HashSet
+   Map iterate
+   Absraction vs Interface
+   JVM Atchitecture
+   Implement single linked list, doubly linked list and tree
+   Singleton vs Abstract Design Pattern
+   
+   Servlet Life cycle/JSL life cycle
+   Session Mangement
+   JSP object
+   
+   Why hibernate
+   Lazy loading
+   get() Vs load()  
+   merge() Vs save() Vs persist()
+   session vs session factory   
+   
+   
+   why spring/depency injection/IoC
+   auto wire
+   spring life cycle/bean life cycle
+   spring mvc  
