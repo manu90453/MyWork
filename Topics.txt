@@ -23,6 +23,8 @@ Core Java:
 	Abstraction
 	Encapsulation
 	Polymorphism
+	Collection Vs Legacy class
+	Collection hierarchy
 	  static Polymorphism
 	  dynamic Polymorphism
   
@@ -31,8 +33,6 @@ Core Java:
   Collections:
     Why collection
 	Array Vs Collection
-	Collection Vs Legacy class
-	Collection hierarchy
 	List:
 	Array Vs ArrayList
 	  Comparable Vs Comparator with real time example
@@ -213,10 +213,14 @@ Hibernate:
    Lazy Loading
    get() Vs load()  
    merge() Vs save() Vs persist()   
+   session vs session factory
    Cache
    Mapping (has-a)
    Inherirtence
-    
+
+Servlet & Jsp:
+   Why Servlet
+      
 	
 Web Services:
    SOAP WS:
