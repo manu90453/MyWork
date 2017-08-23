@@ -1,4 +1,4 @@
-package com.ques;
+package com.ques.hacker;
 
 public class PackageProblem {
 	public static void main(String[] args) {
