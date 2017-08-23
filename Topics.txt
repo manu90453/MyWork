@@ -57,6 +57,7 @@ Core Java:
 	  HasSet Vs LinkedHasSet
 	  When we use LinkedHasSet
 	  List Vs Set
+	  TreeSet
 	 
 	Queue:
 	  When use it.
@@ -65,11 +66,15 @@ Core Java:
 	Map:
 	  Is Map is part of Collection	
 	  Internal implementation of HashMap
+	  Internal implementation of TreeMap
 	  Hashinngg
 	  HashMap Vs HasTable
 	  HashMap Vs TreeMap
       HashMap Vs HashSet
       Different Type Of Map
+	  
+  Generics:
+    Why Generics  
   
   Object:
     What is Object Class
@@ -153,6 +158,7 @@ Core Java:
      try-catch scenario
      finally block
      Excption rule
+	 trowes vs throw
      Exception Vs Assertion
      Vararg type	 
 	  
@@ -177,6 +183,12 @@ How to implement below DS in Java
    priority Queue
    tree
    BST
+   pre order traversal
+   post order traversal
+   inorder traversal
+   min heap
+   max heap
+   
 
 DataStructure:
    Serach:
@@ -190,6 +202,23 @@ DataStructure:
 	 insertion sort
 	 merge sort
 	 quick sort
+	 
+   List:
+     SingleLinkedList
+     DoubleLinkedList
+     CirculerLinkedList
+   
+   Tree:  
+     BST
+     RedBlack Tree
+     PreOrderTraversal
+     PostOrderTraversal	
+	 InOrderTraversal
+	 Path between node
+	 
+   Graph
+     BFS - recurrsion, Iterating
+	 DFS - recurrsion, Iterating
 	 
 	
 Design Pattern:
@@ -260,11 +289,36 @@ Web Services:
    SOAP WS:
      What is SOAP WS.
 	 WSDL
-	 XML Parsing
+	 XML Parsing, XSD
 
    REST WS:
      JSON
 	 Jersey Vs Spring Vs RestEasy impmentation of REST
+	 
+
+Maven clean package vs Maven clean install	 
+
+Spring:
+    IOC:
+	   What is API and framework
+	   Why spring framework
+	   What is dependcy injection
+	   Contextual Lookup
+	   Lookup pool
+	   What is strategy design pattern
+	   ApplicationContext (Pre Loading) Vs BeanFactory (Post Loading)
+	   What is IOC:
+	      IOC vs Dependcy Injection
+	      Collbration Object, Dependcy Injection and manage life cycle
+       
+	   SpringBeanFactory, what is XMLBeanFactory
+	   Difference between singleton and prototype bean
+	   Spring IOC container
+	   Different type autowire
+	   What is IOC container
+	   Different type of scope
+	   Spring Bean Life Cycle	  
+	   
         
 Git Hub:
   Checkout Code: git clone url
