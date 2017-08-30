@@ -84,21 +84,34 @@ public class BinarySearchTree {
 	
 	public void delete(int data) {
 		if(!search(data)) {
-			System.out.println("data in the not in tree");
+			System.out.println("data is not in tree");
 			return ;
 		}
 		delete(root, data);
 	}
 	
-	public void delete(Node node, int data) {
-		if(node.getData() > data) {
-			
-		} else {
-			
+	public Node delete(Node node, int data) {
+		if(node == null) {
+			return node;
 		}
-		
-		
-		
+		if(node.getData() > data) {
+			node.left = delete(node.getLeft(), data);
+		} else if (node.getData() < data){
+			node.right = delete(node.getRight(), data);
+		} else {
+			if(node.getLeft() == null && node.getRight() == null) {
+				return null;
+			} else if (node.getLeft() != null && node.getRight() == null) {
+				node.setData(node.getLeft().getData());
+				node.setLeft(null);
+				return node;
+			} else if(node.getRight() != null && node.getLeft() == null) {
+				node.setData(node.getRight().getData());
+				node.setRight(null);
+				return node;
+			}
+		}
+		return node;
 	}
 	
 	public int getSize() {

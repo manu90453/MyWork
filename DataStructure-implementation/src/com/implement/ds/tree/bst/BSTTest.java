@@ -17,7 +17,8 @@ public class BSTTest {
 		bst.posrOrderTraversal();
 		System.out.println(bst.search(15));
 		System.out.println(bst.search(10));
-		
+		bst.delete(10);
+		bst.inOrderTraversal();
 		
 	}
 
