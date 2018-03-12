@@ -1,5 +1,7 @@
 package com.implement.ds.tree.bst;
 
+import java.util.ArrayList;
+
 public class BSTTest {
 	
 	public static void main(String[] args) {
@@ -19,6 +21,9 @@ public class BSTTest {
 		System.out.println(bst.search(10));
 		bst.delete(10);
 		bst.inOrderTraversal();
+		
+		ArrayList<Integer> arl = new ArrayList<Integer>();
+		arl.add(2);
 		
 	}
 

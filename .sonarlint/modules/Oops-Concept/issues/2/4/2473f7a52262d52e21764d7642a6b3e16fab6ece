@@ -1,0 +1,5 @@
+
+msquid:S3400
+"9Remove this method and declare a constant for this value.(ûŠ«€8ÚÎ¯”,H¬RMINORZ
+CODE_SMELL
+}squid:S1206"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ8ï”¶¯”,H’RMINORZBUG
