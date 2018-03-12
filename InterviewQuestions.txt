@@ -1,0 +1,51 @@
+Some questions for reference :
+
+1. Internal working of array list
+2. Tree Structure
+3. Thread : how will you make single thread capable of running multi thread ?  
+4. Storage class details
+5. Tree traversal
+6. Time complexity / Optimized Code (Very important)
+7. What is best case notation of tree and compare with linked list 
+8. Find 3rd last node of linked list
+9. 2D matrix   (5*5 row column)
+10. find max count of words which starts with "h"
+11. Core Java
+12. Spring, hibernate
+13. Create singleton class
+14. JDBC CODE
+15. Static and access specifier
+16. multi thread : 2 threads (1thread has to print even and other odd number)
+17. Web services concept
+18. Project flow, role and responsibilities
+19. architecture level question :  2 cities with multiple hub. How to track which car is where.
+20. How cache is stored in the client side.
+21. How to achieve cache in REST API.
+22. Design patterns with UML diagram and implementation.
+23. Core Java basics.
+24. Time complexity of sorting algorithms.
+25. Project related questions and architecture.
+26. How do you improve your application in terms of performance.
+27. Design our own data structure to add unique elements - efficient solution.
+28. Longest substring in a given string.
+29. 3rd largest element in an unsorted array.
+30. To find intersection of two linked lists.
+31. Mirror of BST
+32. Tree traversal
+33. Reverse a Linked List in groups of given size
+34. Height of BST
+35. Design your own data structure to add unique elements - efficient solution.
+36. Longest substring in a given string.
+37. 3rd largest element in an unsorted array.
+ 
+
+Programs
+
+1. To find intersection of two linked lists.
+2. Mirror of BST
+3. Tree traversal
+4. Reverse a Linked List in groups of given size
+5. Height of BST
+6. Design our own data structure to add unique elements - efficient solution.
+7. Longest substring in a given string.
+8. 3rd largest element in an unsorted array

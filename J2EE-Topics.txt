@@ -1,0 +1,64 @@
+JMS:
+  Why JMS
+  Queue Vs Topic
+  Jboss Queue Vs IBM MQ
+  Step To create Consumer and Producer
+  Blocking Queue
+  What type of messaging provided by jms
+  Message, Message Type
+
+JNDI: 
+
+
+Servlet & Jsp:
+   Why servlet
+   What is servlet
+   What is web.xml (Web Deployment descriptor)
+   what is server 
+   what is difference between webserver vs application servler
+   why tomcat is servlet container
+   ServletConfig vs ServletContext
+   HttpServlet Vs GenricServlet
+   Servlet life cycle
+   servlet hirarchy
+   <load-on-startup>
+   RequestDispatcher vs forword vs sendRedirect
+   Filter
+   Listner
+   
+   what is JSP
+   why jsp
+   jsp life cycle
+   which jsp life cycle method overridden
+   Implicit Object
+   page vs pageContext
+   DIrectiive vs Include
+   Error page
+   
+XML & XSD:
+
+
+JSON:
+   
+	
+Web Services:
+   SOAP WS:
+     What is SOAP WS.
+	 WSDL
+	 XML Parsing, XSD
+
+   REST WS:
+     JSON
+	 Jersey Vs Spring Vs RestEasy impmentation of REST
+	 
+Maven: 
+Life cycle
+Maven clean package vs Maven clean install	 
+  
+Git Hub:
+  Checkout Code: git clone url
+  Check the changes: git status
+  Add the changs: git add filename/foldername
+  Commit the changes: git commit -m "any message" (locked up repositry but not sync to github.com still code in my machine)
+  To sync the changes: git push
+  

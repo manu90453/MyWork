@@ -1,0 +1,226 @@
+DataStructure:
+   Data Types Vs Abstract Data type
+   
+   Linked List:
+      Why, What and Where use
+      Array Vs Linked List
+      Single Linked List
+      Operation:
+	     creation
+	     Traversing
+		 Searching
+		 Insertion
+		   beginning
+		   empty list
+		   end of list
+		   insertion between nodes
+		   insertion after node
+		   insertion before node
+		   insertion given position
+		 Deletion
+		   first node
+		   last node
+		   between list
+		   Deletion only node
+		 Reverse linked list
+		 
+	  Double Linked List
+	  CirculerLinkedList
+	
+	  Sorted Linked List:
+	   By Exchanging Data
+	   By Exchanging List
+	   
+	  Merging Two List
+	
+   Stack:
+      Why, What and Where use
+      Array Implementation
+      Linked List Implementation
+	  Operation:
+	    Intitialize()
+		Push()
+		Pop()
+		size()
+		isEmapty()
+		isFull()
+	  
+	  Application of stack:
+	    Reverse a string
+		Checking validity of an expression contained nested parentheses
+		Function call
+		Conversion of prefix to postfix form
+		Evaluation of postfix form
+   
+   Queue:
+      Why, What and Where use
+      Array Implementation
+      Linked List Implementation 
+	  Operation:
+	    Intitialize()
+		Enqueue()
+		Dequeue()
+		Peek()
+		size()
+		isEmapty()
+		isFull()
+	  
+   Circuler Queue:
+      Why, What and Where use
+      Array Implementation
+      Linked List Implementation 
+	  
+   Deque (Double Ended Queue)
+      Why, What and Where use
+      Array Implementation
+      Linked List Implementation
+   
+   Priority Queue:
+      Why, What and Where use
+      Array Implementation
+      Linked List Implementation
+
+   Recursion:
+      Why and where
+      Program:
+        Base conversion
+        Prome Factorization
+        Greatest Commoan Divisor
+        Fibonacci Serise
+        Tower Of Honoi
+      Recursion Vs Iteration
+    
+   Tree:
+     Why, What and Where
+	 Terminolgy
+     Binary Tree
+	   Why, What and Where
+       Binary Tree Property
+	   Array Implementaion of Binary Tree
+	   Linked List Implementaion of Binary Tree
+	   
+	   Operation:
+	     Traversal Recursive and Non-Recursive
+		   PreOrderTraversal
+		   InOrderTraversal
+		   PostOrderTraversal
+		   Level Order Traversal
+	   Creating binary tree from inorder and preorder traversal
+	   Height Of Binary Tree	  
+	 Strictly Binary Tree
+	 Extended Binary Tree
+	 Full Binary Tree
+	 Complete Binart Tree
+	 
+	 Binary Search Tree
+	   Operation:
+	     Why, What and Where
+	     Traversal Recursive and Non-Recursive
+		   PreOrderTraversal
+		   InOrderTraversal
+		   PostOrderTraversal
+		   Level Order Traversal
+		   Searching
+		   Insertion
+		   Deletion
+		   
+     AVL Tree
+	   Why, What and Where
+	   Searching and Traversal
+	   Tree Rotations
+	     Right Rotations
+		 Left Rotations
+	   Insertion
+	     Right Subtree
+		 Left Subtree
+	   Deletion
+	     Right Subtree
+		 Left Subtree
+		 
+	 Red Black Tree:
+	    Why, What and Where
+		Searching and Traversal
+		Insertion
+		Deletion
+		
+	 Heap 
+       Building Heap
+       Insertion
+       Deletion
+       Application of Heap:
+         Selection Alogorithm
+         Implementaion of priority queue
+         Heap Sort
+	   Min Heap
+	   Max Heap
+	   
+   Graph:
+     Why, What and Where
+	 Breadth First Search
+	   Why, What and Where
+	   Implementaion using queue
+	   Recursive and Iterative Implementaion
+	
+	 Depth First Search
+	   Why, What and Where
+	   Implementaion using statck
+	   Recursive and Iterative Implementaion 
+       	 
+	 
+   Serach:
+     Linear Search
+     Binary Search	 
+   
+   Sorting
+     Tme Complexity
+     Selection sort
+	 Insertion sort
+	 Bubble sort
+	 Merge sort
+	   Top-Down Merge - Recursive
+	   Bottom-Up Merge - Iterative
+	 Quick sort
+	 Heap Sort
+	 
+   Hashing
+     Why What and When
+	 Hash Function
+	 Implementaion
+
+Design Pattern:
+   What and why Design Pattern
+   Singleton DP
+     Early Intialization
+     Lazy Intialization
+   Different Way to implement
+   Why Hard to implement
+   Why don't use satic way to create Singleton
+   Factory DP
+   Abstract Factory DP
+   Strategy Design Pattern
+   Proxy Design Pattern
+   Decorator Design Pattern
+   What is mean by decorator
+   Template Design Pattern  
+   
+   Questions:
+     1. Design a Vending Machine which can accept different coins, deliver different products?
+	 2. You have a Smartphone class and will have derived classes like IPhone, AndroidPhone,WindowsMobilePhone
+         can be even phone names with brand, how would you design this system of Classes.
+     3. You are writing classes to provide Market Data and you know that you can switch to different vendors 
+	      overtime like Reuters, wombat and may be even to direct exchange feed , how do you design your Market Data system  
+   	 
+How to implement below DS in Java
+   stack
+   LinkedList
+   CirculerLinkedList
+   DoublyLinkedList
+   Queue
+   priority Queue
+   tree
+   BST
+   pre order traversal
+   post order traversal
+   inorder traversal
+   min heap
+   max heap

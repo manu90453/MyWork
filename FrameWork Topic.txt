@@ -1,0 +1,31 @@
+Hibernate:
+   Why Hibernate
+   Lazy Loading
+   Transient, Persistent, and Detached Objects
+   get() Vs load()  
+   merge() Vs save() Vs persist() Vs saveOrUpdate() Vs update()
+   session vs session factory
+   Cache
+   Mapping (has-a)
+   Inherirtence
+   
+Spring:
+    IOC:
+	   What is API and framework
+	   Why spring framework
+	   What is dependcy injection
+	   Contextual Lookup
+	   Lookup pool
+	   What is strategy design pattern
+	   ApplicationContext (Pre Loading) Vs BeanFactory (Post Loading)
+	   What is IOC:
+	      IOC vs Dependcy Injection
+	      Collbration Object, Dependcy Injection and manage life cycle
+       
+	   SpringBeanFactory, what is XMLBeanFactory
+	   Difference between singleton and prototype bean
+	   Spring IOC container
+	   Different type autowire
+	   What is IOC container
+	   Different type of scope
+	   Spring Bean Life Cycle	
