@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="com.beans">
+
+    <class name="Employee" table="employee" >
+        <id name="eid" column="eid" >
+        <generator class = "assigned"></generator>
+        </id>
+        <property name="name" type="string">
+            <column name="name"/>
+        </property>
+        <property name="age">
+            <column name="age"/>
+        </property>
+        
+        <property name="department">
+            <column name="department"/>
+        </property>      
+    </class>
+</hibernate-mapping>
+

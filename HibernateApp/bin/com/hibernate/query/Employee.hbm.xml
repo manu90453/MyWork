@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<!--
+
+-->
+
+<hibernate-mapping package="com.beans">
+
+    <class name="Employee" table="Employee">
+        <id name="eid" column="e_id" >
+            <generator class="native"/>
+        </id>
+        <property name="name" type="string">
+            <column name="NAME" length="20" not-null="true"/>
+        </property>
+        <property name="age">
+            <column name="age" length="1948"/>
+        </property>
+        
+         <property name="department">
+            <column name="department" length="1948"/>
+        </property>
+        
+    </class>
+    
+    
+
+</hibernate-mapping>
+

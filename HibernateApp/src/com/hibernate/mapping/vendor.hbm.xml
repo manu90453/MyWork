@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping package="org.hibernate.ejb.test.xml">
+
+    <class name="com.map.Vendor" table="Vendor">
+        <id name="vendorId" column="v_id" type="int">
+            <generator class="native"/>
+        </id>  
+        <property name="vendorName" type="string"/>
+        <set name="children" cascade="all" >
+       <key column="forevenid" />
+       <one-to-many class="com.map.Customer" />
+      </set>     
+    </class>
+
+</hibernate-mapping>
+

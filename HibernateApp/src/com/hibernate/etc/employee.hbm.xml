@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+        "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+        "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+
+<!--
+
+-->
+
+<hibernate-mapping package="org.hibernate.ejb.test.xml">
+
+    <class name="com.hiber.Employee" table="employee">
+        <composite-id>
+         <key-property name="eid" column="eid"></key-property>
+         <key-property name="contactNo" column="phone"></key-property>
+        </composite-id>
+        <property name="name" column="name"/>
+        <property name="address" column="address"/>
+        <property name="salary"></property>
+        
+    </class>
+    <query name="hql1">
+       <![CDATA[from Employee p where p.salary>sal]]>
+    </query>
+     <sql-query name="sql1">
+       select * from EMPLOYEE where NAME='manish'
+     </sql-query>
+</hibernate-mapping>
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:jee="http://www.springframework.org/schema/jee"
+    xsi:schemaLocation="
+http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.0.xsd
+http://www.springframework.org/schema/jee http://www.springframework.org/schema/jee/spring-jee-2.0.xsd">
+
+
+<!-- Spring email specific definition -->
+    <bean id="mailSender" class="org.springframework.mail.javamail.JavaMailSenderImpl">
+	<property name="host" value="smtp.gmail.com" />
+	<property name="port" value="465" />
+	<property name="username" value="manishsharmash1991@gmail.com" />
+	<property name="password" value="mssh9045536968" />
+
+	<property name="javaMailProperties">
+	   <props>
+       	      <prop key="mail.smtp.auth">true</prop>
+       	      <prop key="mail.smtp.starttls.enable">true</prop>
+       	      <prop key="mail.smtp.socketFactory.class">javax.net.ssl.SSLSocketFactory</prop>
+       	      
+       	   </props>
+	</property>
+   </bean>
+    
+    <bean id="emailLocalService" class="com.omina.service.notification.messaging.EmailLocalService">
+        <property name="emailSender" ref="mailSender" />
+    </bean>
+    
+   <bean id="emailListener" class="com.omina.service.notification.messaging.EmailServiceListener">
+          <property name="emailLocalService" ref="emailLocalService" />
+   </bean>
+   
+   <bean id="emailService" class="com.omina.service.notification.messaging.EmailService">
+        <property name="emailListener" ref="emailListener" />
+   </bean>
+   
+   
+
+   
+    
+    
+
+
+
+</beans>
