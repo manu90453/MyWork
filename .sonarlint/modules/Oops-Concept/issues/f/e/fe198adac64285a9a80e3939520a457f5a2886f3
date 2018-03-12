@@ -1,23 +1,0 @@
-
-jsquid:S1854"6Remove this useless assignment to local variable "o1".(Õ‘¾8ŸµÉ¯”,H¡RMAJORZ
-CODE_SMELL
-`squid:S1481"'Remove this unused "s1" local variable.(¢‹öÚøÿÿÿÿ8ŸµÉ¯”,HŸRMINORZ
-CODE_SMELL
-osquid:S1854"6Remove this useless assignment to local variable "s1".(¢‹öÚøÿÿÿÿ8ŸµÉ¯”,H¢RMAJORZ
-CODE_SMELL
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(èÚãÅıÿÿÿÿ8øœ¾¯”,H™RMAJORZ
-CODE_SMELL
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(À™¥Ÿúÿÿÿÿ8øœ¾¯”,HšRMAJORZ
-CODE_SMELL
-}squid:S1206"PThis class overrides "hashCode()" and should therefore also override "equals()".(ğÜşŠ8áÏ·¯”,H•RMINORZBUG
-[squid:S1481"'Remove this unused "o1" local variable.(Õ‘¾8ŸµÉ¯”,H RMINORZ
-CODE_SMELL
-nsquid:S2209"5Change this instance-reference to a static reference.(èÚãÅıÿÿÿÿ8³—ë¯”,HËRMAJORZ
-CODE_SMELL
-nsquid:S1161":Add the "@Override" annotation above this method signature(ğÜşŠ8®º¯”,H˜RMAJORZ
-CODE_SMELL
-rsquid:S3400
-"9Remove this method and declare a constant for this value.(‘áÔûüÿÿÿÿ8ˆ–è¯”,HÂRMINORZ
-CODE_SMELL
