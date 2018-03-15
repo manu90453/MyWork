@@ -7,8 +7,8 @@ JMS:
   What type of messaging provided by jms
   Message, Message Type
 
-JNDI: 
-
+JNDI:
+   What is JNDI and Why We Used
 
 Servlet & Jsp:
    Why servlet
@@ -36,10 +36,14 @@ Servlet & Jsp:
    Error page
    
 XML & XSD:
-
+    What is XML and XSD and why use
+	Parser:
+	   DOM
+	   SAX
 
 JSON:
-   
+   What is JSON
+   XML vs JSON
 	
 Web Services:
    SOAP WS:

@@ -1,0 +1,35 @@
+Java 8:
+   Java 8 Vs Java 9 all difference
+   Why Java 8
+   Java 8 Features:
+        Functional Interface
+		Predefined Functional Interface
+		Lambda Expression
+		Effective final
+		Interface
+		Stream API
+		New Data and Time API
+		For each loop
+		Collection API Improvement
+		Concurrency API Improvement 
+		Java IO Improvement
+		java.lang and java.util Packages
+		Miscellaneous core API improvement
+
+   Program: 
+       For each Iteration
+	   Stream Question
+	   Lambda Expression Question
+	 
+
+Java 9:	
+   Why Java 9
+   Java 9 features:
+       Factory Method for Immutable list set Map and Map Entry
+	   Private Method in interface
+	   Try with resource improvement
+	   Stream API Improvement
+	   Miscellaneous Java 9 feature
+	   
+	 
+

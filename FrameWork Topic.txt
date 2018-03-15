@@ -1,3 +1,17 @@
+SQL:
+   Find Maximus Salry 
+   Group By
+   Join
+   Sequence
+   Function
+   Package
+   Index
+   
+JDBC:
+   JDBC Connection Step
+   Statement Vs PrepareStaement Vs Callable Statement
+   Transaction Mangement   
+
 Hibernate:
    Why Hibernate
    Lazy Loading
@@ -29,3 +43,14 @@ Spring:
 	   What is IOC container
 	   Different type of scope
 	   Spring Bean Life Cycle	
+	   
+	AOP:
+	   What is AOP and Where will use use with example
+	   
+	MVC:
+	  What is MVC design Pattern
+	  Flow of MVC with Diagram
+	
+	Transaction Mangement;
+	  How to manage transaction in spring mvc
+	  ACID property
