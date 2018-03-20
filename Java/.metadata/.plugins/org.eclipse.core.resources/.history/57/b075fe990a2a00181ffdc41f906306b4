@@ -1,0 +1,6 @@
+package com.main.java.file;
+
+public class Test1 {
+	public static void main(String[] args) {}
+
+}

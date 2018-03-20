@@ -25,7 +25,7 @@ class Thread2 extends Thread {
 public class Manager1 extends Thread{
 	
 	public static void main(String[] args) {
-		Thread1 thread1 = new Thread1();
+		Thread11 thread1 = new Thread11();
 		thread1.start();
 		Thread main = Thread.currentThread();
 		System.out.println("thread Name: " + main.getName());

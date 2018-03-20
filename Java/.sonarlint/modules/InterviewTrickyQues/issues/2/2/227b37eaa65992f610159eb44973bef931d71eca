@@ -1,0 +1,23 @@
+
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(±îŸßıÿÿÿÿH·RMAJORZ
+CODE_SMELL
+Œsquid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰H¸RMAJORZ
+CODE_SMELL
+e
+squid:S106,"9Replace this use of System.out or System.err by a logger.(»«ÈˆH¹RMAJORZ
+CODE_SMELL
+îsquid:S1598"¸This file "CaeserCipher.java" should be located in "com\string" directory, not in "C:\Users\Manish Sharma\Documents\GitHub\MyWork\Java\InterviewTrickyQues\src\com\algorithym\solution".(úá“ÈıÿÿÿÿHºRCRITICALZ
+CODE_SMELL
+e
+squid:S1062"9Replace this use of System.out or System.err by a logger.(¥ãŒ§H»RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß¾¸ÌH¼RMAJORZ
+CODE_SMELL
+j
+squid:S106#"9Replace this use of System.out or System.err by a logger.(­ËÖşÿÿÿÿH½RMAJORZ
+CODE_SMELL
+j
+squid:S106	"9Replace this use of System.out or System.err by a logger.(öñ×ıÿÿÿÿH¾RMAJORZ
+CODE_SMELL

@@ -1,0 +1,17 @@
+package com.main.java.file.read.write;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+
+public class ByteStream {
+	public static void main(String[] args) {
+		FileInputStream input = null;
+		try {
+			input = new FileInputStream("abc.txt");
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+		
+	}
+
+}

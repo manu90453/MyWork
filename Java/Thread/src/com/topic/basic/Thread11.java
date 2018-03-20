@@ -1,0 +1,20 @@
+package com.topic.basic;
+
+public class Thread11{
+
+	public static void main(String[] args) {
+		
+		Thread th = new Thread(new Runnable() {
+			public void run() {
+				System.out.println("hhshshs" + Thread.currentThread().getName());
+			}
+		});
+		th.start();
+		System.out.println("sharma" + Thread.currentThread().getName());
+		
+		new Thread(() -> System.out.println("Manish" + Thread.currentThread().getName())).start();
+	}
+	
+	
+
+}

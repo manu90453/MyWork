@@ -1,0 +1,22 @@
+
+e
+squid:S106	"9Replace this use of System.out or System.err by a logger.(ó¼—ØH•RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÊÈ¨ÚùÿÿÿÿH–RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ‰õ‘úÿÿÿÿH—RMAJORZ
+CODE_SMELL
+Xsquid:S1481
+"&Remove this unused "n" local variable.(£ø‘ñúÿÿÿÿH˜RMINORZ
+CODE_SMELL
+Ssquid:S1481"&Remove this unused "k" local variable.(Î¤¢×H™RMINORZ
+CODE_SMELL
+Wsquid:S00108")Either remove or fill this block of code.(é°ŽíHšRMAJORZ
+CODE_SMELL
+bsquid:S1854"5Remove this useless assignment to local variable "k".(Î¤¢×H›RMAJORZ
+CODE_SMELL
+gsquid:S1854
+"5Remove this useless assignment to local variable "n".(£ø‘ñúÿÿÿÿHœRMAJORZ
+CODE_SMELL

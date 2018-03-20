@@ -1,0 +1,8 @@
+package com.main.java.impl.array;
+/* Print Given array in spiral form*/
+public class SpiralForm {
+	public static void main(String[] args) {
+		
+	}
+
+}

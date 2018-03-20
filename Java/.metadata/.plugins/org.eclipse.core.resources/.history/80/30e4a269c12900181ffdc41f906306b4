@@ -1,0 +1,35 @@
+package com.main.java.file.basic.test;
+
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+
+public class Test1 {
+	public static void main(String[] args) {
+		File file = new File("abc.txt");
+		System.out.println(file.exists());
+		try {
+			file.createNewFile();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		System.out.println(file.exists());
+		
+		FileInputStream fi = null;
+		try {
+			fi = new FileInputStream(file);
+		} catch (Exception e) {
+		} finally {
+			try {
+				if(fi == null) {
+					fi.close();
+				}
+				
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		}
+	}
+
+}

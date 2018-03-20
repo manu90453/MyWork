@@ -1,0 +1,9 @@
+package com.main.java.impl.array;
+
+import java.util.ArrayList;
+
+public class DyanamicArray {
+	
+	ArrayList<Object> al = null;
+
+}

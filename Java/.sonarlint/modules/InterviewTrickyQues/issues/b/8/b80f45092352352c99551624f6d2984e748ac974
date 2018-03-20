@@ -1,0 +1,46 @@
+
+xsquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(ú”ëóHRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine'"<This block of commented-out lines of code should be removed.(ÍÅýÿÿÿÿHžRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine/"<This block of commented-out lines of code should be removed.(®òúËHŸRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(Ãõ‹¥ýÿÿÿÿH RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(¯áÈH¡RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine?"<This block of commented-out lines of code should be removed.(ÜÛÜØùÿÿÿÿH¢RMAJORZ
+CODE_SMELL
+wsquid:CommentedOutCodeLineB"<This block of commented-out lines of code should be removed.(ôöóaH£RMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLineP"<This block of commented-out lines of code should be removed.(€é²ÅH¤RMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineW"<This block of commented-out lines of code should be removed.(èÇë½ûÿÿÿÿH¥RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿš…øH¦RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(‰ÉÀÒøÿÿÿÿH§RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(«š§ÇH¨RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(µÞÄòH©RMAJORZ
+CODE_SMELL
+e
+squid:S106"9Replace this use of System.out or System.err by a logger.(£‹„ëHªRMAJORZ
+CODE_SMELL
+tsquid:S1226E"BIntroduce a new variable instead of reusing the parameter "value".(ÀÜ§²øÿÿÿÿH«RMINORZ
+CODE_SMELL
+ïsquid:S1598"¿This file "CoolNumbers.java" should be located in "com\main\java" directory, not in "C:\Users\Manish Sharma\Documents\GitHub\MyWork\Java\InterviewTrickyQues\src\com\hacker\problem\solutions".(é¦H¬RCRITICALZ
+CODE_SMELL
+„squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯Ò…ÝÿÿÿÿÿH­RMINORZ
+CODE_SMELL
+„squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï·ù§øÿÿÿÿH®RMINORZ
+CODE_SMELL
+„squid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹÷ÂúÿÿÿÿH¯RMINORZ
+CODE_SMELL
+hsquid:UselessImportCheck".Remove this unused import 'java.awt.Checkbox'.(¼ºß‹H°RMINORZ
+CODE_SMELL

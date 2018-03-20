@@ -1,0 +1,16 @@
+package com.main.java.file.read.write;
+
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+
+public class File1 {
+	public static void main(String[] args) {
+		
+		try {
+			FileReader fr = new FileReader("abc.txt");
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		}
+	}
+
+}

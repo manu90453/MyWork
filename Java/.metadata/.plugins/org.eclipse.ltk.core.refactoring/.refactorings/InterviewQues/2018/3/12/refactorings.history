@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;InterviewQues/src/com/java/tricky/string/ques/AddTwoString.java&apos; to &apos;TwoString.java&apos;" description="Rename resource &apos;AddTwoString.java&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/com/java/tricky/string/ques/AddTwoString.java" name="TwoString.java" stamp="1521470870711" updateReferences="true"/>
+</session>

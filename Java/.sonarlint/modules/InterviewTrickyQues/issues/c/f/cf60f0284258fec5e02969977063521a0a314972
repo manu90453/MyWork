@@ -1,0 +1,25 @@
+
+Tsquid:S1659#""Declare "temp" on a separate line.(Ìµº³ûÿÿÿÿHâ
+RMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÀŠâÉùÿÿÿÿHã
+RMAJORZ
+CODE_SMELL
+j
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ðö¶žüÿÿÿÿHä
+RMAJORZ
+CODE_SMELL
+j
+squid:S1066"9Replace this use of System.out or System.err by a logger.(ö‰ÆòÿÿÿÿÿHå
+RMAJORZ
+CODE_SMELL
+d
+squid:S106;"9Replace this use of System.out or System.err by a logger.(Ô¹ãdHæ
+RMAJORZ
+CODE_SMELL
+[squid:S1481#")Remove this unused "temp" local variable.(Ìµº³ûÿÿÿÿHç
+RMINORZ
+CODE_SMELL
+Nsquid:S1170"!Make this final field static too.(’ÍÎùHè
+RMINORZ
+CODE_SMELL

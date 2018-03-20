@@ -1,0 +1,24 @@
+package com.main.java.impl.array;
+
+import java.util.ArrayList;
+
+public class DyanamicArray {
+	
+	ArrayList<Object> al = null;
+	
+	public void create() {
+		
+		al = new ArrayList<>();
+	}
+	
+	public int size() {
+		if(al==null) {
+			return 0;
+		}
+		return al.size();
+	}
+
+	public void remeove(int index) {	
+		al.remove(index);
+	}
+}

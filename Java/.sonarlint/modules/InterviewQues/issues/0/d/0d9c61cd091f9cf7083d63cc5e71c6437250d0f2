@@ -1,0 +1,15 @@
+
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ñ…ˆüÿÿÿÿ8²²éõ£,H“	RMAJORZ
+CODE_SMELL
+q
+squid:S106""9Replace this use of System.out or System.err by a logger.(Øñâüÿÿÿÿ8²²éõ£,H”	RMAJORZ
+CODE_SMELL
+bsquid:S1481 ")Remove this unused "fStr" local variable.(èÂÓËùÿÿÿÿ8²²éõ£,H•	RMINORZ
+CODE_SMELL
+\squid:S1481#")Remove this unused "sStr" local variable.(³Ôû_8²²éõ£,H–	RMINORZ
+CODE_SMELL
+ksquid:S1854#"8Remove this useless assignment to local variable "sStr".(³Ôû_8²²éõ£,H—	RMAJORZ
+CODE_SMELL
+qsquid:S1854 "8Remove this useless assignment to local variable "fStr".(èÂÓËùÿÿÿÿ8²²éõ£,H˜	RMAJORZ
+CODE_SMELL

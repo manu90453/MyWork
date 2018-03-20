@@ -1,0 +1,18 @@
+
+Osquid:S1659E""Declare "copy" on a separate line.(•¤Æ”HõRMINORZ
+CODE_SMELL
+jsquid:S1197"8Move the array designator from the variable to the type.(ùï¾ŽÿÿÿÿÿHöRMINORZ
+CODE_SMELL
+jsquid:S1197F"8Move the array designator from the variable to the type.(÷¦ÛÖýÿÿÿÿH÷RMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–¼’ˆûÿÿÿÿHøRMAJORZ
+CODE_SMELL
+xsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(é¾åòHùRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineC"<This block of commented-out lines of code should be removed.(«÷´éüÿÿÿÿHúRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(ŸÌÔ£øÿÿÿÿHûRMAJORZ
+CODE_SMELL
+j
+squid:S106Z"9Replace this use of System.out or System.err by a logger.(ï¹ØÏüÿÿÿÿHüRMAJORZ
+CODE_SMELL

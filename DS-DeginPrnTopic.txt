@@ -208,7 +208,7 @@ Design Pattern:
 	 2. You have a Smartphone class and will have derived classes like IPhone, AndroidPhone,WindowsMobilePhone
          can be even phone names with brand, how would you design this system of Classes.
      3. You are writing classes to provide Market Data and you know that you can switch to different vendors 
-	      overtime like Reuters, wombat and may be even to direct exchange feed , how do you design your Market Data system  
+	      overtime like Reuters, wombat and may be even to direct exchange feed , how do you design your Market Data system 
    	 
 How to implement below DS in Java
    stack

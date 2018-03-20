@@ -1,0 +1,81 @@
+package com.java.tricky.ques;
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
+
+/*  1     2      3
+ *  &    abc    def
+ *  4     5      6
+ *  ghi  jkl    mno
+ *  7     8      9
+ *  pqrs tuv    wxyz
+ *  *     0      #
+ *  
+ * input         output
+ * sling       7777555444664
+ * 
+ * */
+public class DialPattern {
+	
+	Map<Integer, char[]> dial = null;
+
+	public DialPattern() {
+		dial = new HashMap<>();
+		dial.put(2, new char[] {'a', 'b', 'c'});
+		dial.put(2, new char[] {'a', 'b', 'c'});
+		dial.put(2, new char[] {'a', 'b', 'c'});
+		dial.put(2, new char[] {'a', 'b', 'c'});
+		dial.put(2, new char[] {'a', 'b', 'c'});
+		dial.put(2, new char[] {'a', 'b', 'c'});
+		dial.put(2, new char[] {'a', 'b', 'c'});
+		dial.put(2, new char[] {'a', 'b', 'c'});
+	}
+	
+	int getNuberForChar(char c) {
+		
+		int difference = (c-'a');
+		int result = difference /3;
+		System.out.println("diffff" + difference);
+		if(result <= 5) {
+			return result + 2;
+		} else if ((difference % 3) == 0) {
+			return result + 1;
+		} else if (result == 8) {
+			return result + 1;
+		} else {
+			return result + 2;
+		}
+	}
+	
+	String print(String input) {
+		StringBuilder sb = new StringBuilder();
+		String value = null;
+		int number = 0;
+		for(int i=0; i<input.length(); i++) {
+			number = getNuberForChar(input.charAt(i));
+			System.out.println(dial + " jjjj" + number);
+			if((value = dial.get(number)) != null) {
+				int length = value.length();
+				while(length-- > 0) {
+					if (value.equals(String.valueOf(input.charAt(i)))) {
+						sb.append(number);
+						break;
+					}
+					sb.append(number);
+				}
+			} 
+		}
+		return sb.toString();
+		
+	}
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter input String: ");
+		String input = sc.next();
+		
+		DialPattern pattern = new DialPattern();
+		System.out.println(pattern.print(input));
+	}
+
+}

@@ -1,0 +1,20 @@
+package com.main.java.file.read.write;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+
+public class ByteStream {
+	public static void main(String[] args) {
+		try (FileInputStream input = new FileInputStream("abc.txt");
+				FileOutputStream output = new FileOutputStream("write.txt")) {
+
+			int c = 0;
+			while ((c = input.read()) != -1) {
+				output.write(c);
+			}
+
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	}
+}

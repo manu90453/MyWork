@@ -1,0 +1,10 @@
+
+Nsquid:S1659"!Declare "end" on a separate line.(ı‘¤ßHÃRMINORZ
+CODE_SMELL
+^squid:S1751@"8Remove this "continue" statement or make it conditional.(ÉŠ©ƒHÄRMAJORZBUG
+j
+squid:S106_"9Replace this use of System.out or System.err by a logger.(——ÛúÿÿÿÿHÅRMAJORZ
+CODE_SMELL
+lsquid:S22591"AA "NullPointerException" could be thrown; "ptr" is nullable here.(êã•áúÿÿÿÿHÆRMAJORZBUG
+jsquid:S1854G"8Remove this useless assignment to local variable "temp".(ıêŸÉûÿÿÿÿHÇRMAJORZ
+CODE_SMELL

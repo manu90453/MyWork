@@ -1,0 +1,5 @@
+package com.main.java.file.read.write;
+
+public class ByteStream {
+
+}

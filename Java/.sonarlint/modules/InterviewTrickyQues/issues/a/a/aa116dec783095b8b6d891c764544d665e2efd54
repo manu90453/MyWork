@@ -1,0 +1,29 @@
+
+¸%squid:RedundantThrowsDeclarationCheck"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ùï¾ŽÿÿÿÿÿHƒRMINORZ
+CODE_SMELL
+Psquid:S1659&"#Declare "input" on a separate line.(±“§ŽH„RMINORZ
+CODE_SMELL
+jsquid:S1197"8Move the array designator from the variable to the type.(ùï¾ŽÿÿÿÿÿH…RMINORZ
+CODE_SMELL
+jsquid:S1197%"8Move the array designator from the variable to the type.(Ýò»¤ýÿÿÿÿH†RMINORZ
+CODE_SMELL
+jsquid:S1197;"8Move the array designator from the variable to the type.(Ùá±—üÿÿÿÿH‡RMINORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(˜¹ãûÿÿÿÿHˆRMAJORZ
+CODE_SMELL
+}squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆ¹ÃÌüÿÿÿÿH‰RMAJORZ
+CODE_SMELL
+j
+squid:S106#"9Replace this use of System.out or System.err by a logger.(®ƒ™´ÿÿÿÿÿHŠRMAJORZ
+CODE_SMELL
+j
+squid:S106'"9Replace this use of System.out or System.err by a logger.(À™ÆÕùÿÿÿÿH‹RMAJORZ
+CODE_SMELL
+e
+squid:S1065"9Replace this use of System.out or System.err by a logger.(ë—¶±HŒRMAJORZ
+CODE_SMELL
+d
+squid:S1067"9Replace this use of System.out or System.err by a logger.(ÇÑ×HRMAJORZ
+CODE_SMELL
+Wsquid:S1481&"*Remove this unused "index" local variable.(±“§ŽHŽRMINORZ
+CODE_SMELL
