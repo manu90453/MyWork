@@ -1,29 +1,30 @@
 
-}
-squid:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8¯–À¨£,HæRMINORZVULNERABILITY
-l
-squid:S106"9Replace this use of System.out or System.err by a logger.(àÉš8§ï¨£,HğRMAJORZ
-CODE_SMELL
-usquid:S1075 "ARefactor your code to get this URI from a customizable parameter.(Á›ƒ8‘Èû¨£,HóRMINORZ
+usquid:S1075 "ARefactor your code to get this URI from a customizable parameter.(Á›ƒ8‘Èû¨£,Hÿ
+RMINORZ
 CODE_SMELL
 q
-squid:S106"9Replace this use of System.out or System.err by a logger.(‚¤±ıÿÿÿÿ8ä Á¨£,HçRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚¤±ıÿÿÿÿ8ä Á¨£,H€RMAJORZ
 CODE_SMELL
-q
-squid:S106"9Replace this use of System.out or System.err by a logger.(‚¤±ıÿÿÿÿ8ùŠÔ¨£,HèRMAJORZ
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¯–À¨£,HRMINORZVULNERABILITY
+x
+squid:S899"BDo something with the "boolean" value returned by "createNewFile".(×êì8ãƒæ¨£,H‚RMINORZVULNERABILITY
+l
+squid:S106+"9Replace this use of System.out or System.err by a logger.(½Û²¡8‚‘€©£,HƒRMAJORZ
 CODE_SMELL
 l
-squid:S106+"9Replace this use of System.out or System.err by a logger.(½Û²¡8‚‘€©£,HöRMAJORZ
-CODE_SMELL
-^squid:S00108")Either remove or fill this block of code.(”ı¾8ãƒæ¨£,HíRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(àÉš8§ï¨£,H„RMAJORZ
 CODE_SMELL
 j
 squid:S106
-"9Replace this use of System.out or System.err by a logger.(Æ«‚ßøÿÿÿÿHäRMAJORZ
+"9Replace this use of System.out or System.err by a logger.(Æ«‚ßøÿÿÿÿH…RMAJORZ
 CODE_SMELL
-_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8¯–À¨£,HåRMINORZVULNERABILITY
+^squid:S00108")Either remove or fill this block of code.(”ı¾8ãƒæ¨£,H†RMAJORZ
+CODE_SMELL
 q
-squid:S106"9Replace this use of System.out or System.err by a logger.(ìİÕËúÿÿÿÿ8ñúó¨£,HñRMAJORZ
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚¤±ıÿÿÿÿ8ùŠÔ¨£,H‡RMAJORZ
 CODE_SMELL
-x
-squid:S899"BDo something with the "boolean" value returned by "createNewFile".(×êì8ãƒæ¨£,HîRMINORZVULNERABILITY
+}
+squid:S899"BDo something with the "boolean" value returned by "createNewFile".(Ğ’Íùÿÿÿÿ8¯–À¨£,HˆRMINORZVULNERABILITY
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(ìİÕËúÿÿÿÿ8ñúó¨£,H‰RMAJORZ
+CODE_SMELL

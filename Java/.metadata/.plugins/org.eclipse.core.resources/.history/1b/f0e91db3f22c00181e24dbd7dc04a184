@@ -1,0 +1,11 @@
+package com.java.main.serial;
+
+import java.io.Serializable;
+
+public class Serialize1 implements Serializable {
+	
+	int i ;
+	
+	
+
+}

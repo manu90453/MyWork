@@ -1,0 +1,11 @@
+package com.java.main.serial;
+
+public class Serialize2 {
+	
+	int k;
+	
+	public Serialize2(int k) {
+		this.k = k;
+	}
+
+}

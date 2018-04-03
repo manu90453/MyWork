@@ -1,0 +1,9 @@
+package com.main.java.gen.basic;
+
+public class WhyGenerics {
+	
+	public static void main(String[] args) {
+		
+	}
+
+}

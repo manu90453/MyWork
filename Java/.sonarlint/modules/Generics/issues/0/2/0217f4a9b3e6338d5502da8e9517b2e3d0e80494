@@ -1,0 +1,9 @@
+
+csquid:S1481"*Remove this unused "sName" local variable.(®µ¬Ëüÿÿÿÿ8€´™í¤,HåRMINORZ
+CODE_SMELL
+rsquid:S1854"9Remove this useless assignment to local variable "sName".(®µ¬Ëüÿÿÿÿ8€´™í¤,HæRMAJORZ
+CODE_SMELL
+rsquid:S1854"9Remove this useless assignment to local variable "fName".(‚›€Ôùÿÿÿÿ8€´™í¤,HçRMAJORZ
+CODE_SMELL
+csquid:S1481"*Remove this unused "fName" local variable.(‚›€Ôùÿÿÿÿ8€´™í¤,HäRMINORZ
+CODE_SMELL

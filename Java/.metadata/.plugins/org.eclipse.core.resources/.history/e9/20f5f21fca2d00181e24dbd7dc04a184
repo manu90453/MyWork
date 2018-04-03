@@ -1,0 +1,16 @@
+package com.main.java.gen.basic;
+
+public class WhyGenerics {
+	
+	public static void main(String[] args) {
+		
+		//Store 500 student name
+		
+		String[] names = new String[500];
+		
+		names[0] = "Manish";
+		names[1] = "Anish";
+		names[2] = 50;
+	}
+
+}

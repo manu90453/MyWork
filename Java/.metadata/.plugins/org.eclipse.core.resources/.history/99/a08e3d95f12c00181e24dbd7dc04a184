@@ -1,0 +1,9 @@
+package com.java.main.serial;
+
+public class Persons {
+	private int age;
+	private String name;
+	private int salary;
+
+	
+}

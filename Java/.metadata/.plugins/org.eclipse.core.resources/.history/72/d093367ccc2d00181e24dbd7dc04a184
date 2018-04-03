@@ -1,0 +1,8 @@
+package com.main.java.gen.basic;
+
+public class GenericTest {
+	public static void main(String[] args) {
+		Generic<String> name = new Generic<String>("Manish");
+	}
+
+}

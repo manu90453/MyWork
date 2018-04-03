@@ -1,0 +1,8 @@
+
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8³ð²Ã¤,H£RMINORZVULNERABILITY
+_squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8³ð²Ã¤,H¤RMINORZVULNERABILITY
+q
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿìû‚øÿÿÿÿ8ý’´Ã¤,H§RMAJORZ
+CODE_SMELL
+xsquid:S2147"DCombine this catch with the one at line 19, which has the same body.(ï­£Ä8³ð²Ã¤,H¢RMINORZ
+CODE_SMELL

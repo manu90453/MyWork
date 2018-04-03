@@ -1,0 +1,35 @@
+package com.java.main.serial;
+
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.ObjectOutputStream;
+import java.io.Serializable;
+
+public class Serialize3 implements Serializable {
+	
+	private static final long serialVersionUID = 1L;
+	int something;
+	int addSomething;
+	
+	public Serialize3(int i, int j) {
+		this.something = i;
+		this.addSomething = j;
+	}
+	public static void main(String[] args) {
+		
+		Serialize3 s3 = new Serialize3(99, 99);
+		try(FileOutputStream fOut = new FileOutputStream("lllkk.txt")) {
+			
+			ObjectOutputStream out = new ObjectOutputStream(fOut);
+			out.writeObject(s3);
+			out.flush();
+		} catch (FileNotFoundException e) {
+			e.printStackTrace();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+		System.out.println("done");
+	}
+
+}

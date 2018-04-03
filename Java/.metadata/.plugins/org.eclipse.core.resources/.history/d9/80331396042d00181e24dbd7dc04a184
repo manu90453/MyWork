@@ -1,0 +1,14 @@
+package com.java.main.serial;
+
+public class Serialize3 {
+	
+	int something;
+	
+	public Serialize3(int i) {
+		this.something = i;
+	}
+	public static void main(String[] args) {
+		
+	}
+
+}

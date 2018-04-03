@@ -1,0 +1,13 @@
+package com.main.java.gen.basic;
+
+public class GenericTest {
+	public static void main(String[] args) {
+		Generic<String> name1 = new Generic<String>("Manish");
+		Generic<Integer> name2 = new Generic<>(22);
+		Generic<String> name3 = new Generic<String>("Manish");
+		
+		System.out.println(name1.getData());
+		name1.showTpe();
+	}
+
+}

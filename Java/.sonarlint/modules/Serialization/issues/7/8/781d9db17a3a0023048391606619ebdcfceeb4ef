@@ -1,0 +1,22 @@
+
+q
+squid:S1065"9Replace this use of System.out or System.err by a logger.(©à“±şÿÿÿÿ8ÔÛÄ¤,HÆRMAJORZ
+CODE_SMELL
+squid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(²±ï’8ô£æÄ¤,HÓRMAJORZ
+CODE_SMELL
+l
+squid:S1064"9Replace this use of System.out or System.err by a logger.(Ö¼¼÷8¥ŸÜÄ¤,HÊRMAJORZ
+CODE_SMELL
+Zsquid:S11489"#Use a logger to log this exception.(Ç’Çê8Š§Á¤,HüRMINORZVULNERABILITY
+l
+squid:S1067"9Replace this use of System.out or System.err by a logger.(‡´ÔÂ8¥ŸÜÄ¤,HÉRMAJORZ
+CODE_SMELL
+asquid:S1125 "(Remove the literal "true" boolean value.(½¸ šüÿÿÿÿ8ÔÛÄ¤,HÇRMINORZ
+CODE_SMELL
+q
+squid:S1066"9Replace this use of System.out or System.err by a logger.(üúşªúÿÿÿÿ8ÈñÅÁ¤,HˆRMAJORZ
+CODE_SMELL
+q
+squid:S106 "9Replace this use of System.out or System.err by a logger.(½¸ šüÿÿÿÿ8¥ŸÜÄ¤,HÈRMAJORZ
+CODE_SMELL
+_squid:S1148)"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ëà‰Á¤,HÑRMINORZVULNERABILITY
