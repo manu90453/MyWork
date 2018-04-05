@@ -189,19 +189,30 @@ DataStructure:
 
 Design Pattern:
    What and why Design Pattern
-   Singleton DP
-     Early Intialization
-     Lazy Intialization
-   Different Way to implement
-   Why Hard to implement
-   Why don't use satic way to create Singleton
-   Factory DP
-   Abstract Factory DP
-   Strategy Design Pattern
-   Proxy Design Pattern
-   Decorator Design Pattern
-   What is mean by decorator
-   Template Design Pattern  
+   Uses of design pattern
+   Creational Design Pattern:
+      Singleton DP
+        Early Intialization
+        Lazy Intialization
+        Different Way to implement
+        Why Hard to implement
+        Why don't use satic way to create Singleton
+      Factory DP
+      Abstract Factory DP
+	  Factory Method
+	  Builde Design Pattern
+	  Prototype
+   Structural design patterns
+      Decorator
+	  Proxy
+	  Private Class Data
+   Behavioral design patterns
+      Strategy Design Pattern
+      Template Design Pattern 
+
+   DAO Design Pattern
+   MVC Design Pattern
+   Producer and Consumer Design Pattern
    
    Questions:
      1. Design a Vending Machine which can accept different coins, deliver different products?

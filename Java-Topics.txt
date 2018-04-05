@@ -162,16 +162,4 @@ Core Java:
      Excption rule
 	 trowes vs throw
      Exception Vs Assertion
-     Vararg type	 
-	  
-  Java-8
-    Lambda Expression
-    forEach
-    How to sort Map
-    Convert List to Map
-    Convert Map to List
-    How to join Array
-    How to convert String to char Array
-    How to convert primitive Array to List
-	
-	Difference between Java 7 and Java 8
+     Vararg type

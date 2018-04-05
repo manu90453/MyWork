@@ -1,5 +1,6 @@
 package com.company.quiz.question;
 
+import java.text.NumberFormat;
 import java.util.Scanner;
 
 public class CountPermutation {
@@ -37,6 +38,8 @@ public class CountPermutation {
 		if(diff >= second) {
 			
 		}
+		Boolean.valueOf(true);
 		return 1;
+		
     }
 }	

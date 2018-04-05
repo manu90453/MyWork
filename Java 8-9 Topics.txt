@@ -32,4 +32,10 @@ Java 9:
 	   Miscellaneous Java 9 feature
 	   
 	 
-
+Ques:
+    How to sort Map
+    Convert List to Map
+    Convert Map to List
+    How to join Array
+    How to convert String to char Array
+    How to convert primitive Array to List
