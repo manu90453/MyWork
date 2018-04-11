@@ -203,6 +203,7 @@ Design Pattern:
 	  Builde Design Pattern
 	  Prototype
    Structural design patterns
+      Adapter
       Decorator
 	  Proxy
 	  Private Class Data
